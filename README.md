@@ -51,4 +51,4 @@ The `inference.py` script includes a regex-based safety filter to block known ba
 *   `docs/`: Project research report and methodology.
 
 ## License
-Apache-2.0. See [LICENSE](LICENSE) for details.
+Built with Llama. Released under the [Llama 3.3 Community License](https://www.llama.com/llama3_3/license/). See [LICENSE](LICENSE).
